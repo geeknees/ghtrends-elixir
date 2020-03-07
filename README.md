@@ -1,7 +1,9 @@
 # Ghtrends
 
+```
 mix escript.build
 ./ghtrends
+```
 
 **TODO: Add description**
 
