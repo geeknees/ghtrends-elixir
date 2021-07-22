@@ -23,7 +23,7 @@ defmodule Ghtrends.MixProject do
   defp deps do
     [
       {:httpoison, "~> 1.6"},
-      {:poison, "~> 4.0"}
+      {:poison, "~> 5.0"}
     ]
   end
 
