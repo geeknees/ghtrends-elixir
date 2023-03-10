@@ -22,7 +22,7 @@ defmodule Ghtrends.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:httpoison, "~> 1.6"},
+      {:httpoison, "~> 2.1"},
       {:poison, "~> 5.0"}
     ]
   end
